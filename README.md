@@ -135,6 +135,7 @@ Claude Code extends Anthropic's CLI with custom plugins. Official plugins: [anth
 - [feature-dev](https://github.com/anthropics/claude-code/tree/main/plugins/feature-dev) - Comprehensive feature development workflow with a structured 7-phase approach.
 - [immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - MCP server for intelligent photo management with Immich — search, geographic album curation, library cleanup, duplicate detection, and interactive HTML galleries.
 - [oh-my-forge](https://github.com/rlagycks/oh-my-forge) - Claude Code plugin with ontology-driven guardrails and harness-engineered agent workflows for TDD, planning, code review, and CI automation.
+- [SatGate](https://github.com/SatGate-io/satgate) - MCP server for AI agent budget enforcement via L402 — rate limits, spend policies, and per-task budget tracking for Bitcoin Lightning payments.
 - [Zotero Fulltext](https://github.com/statzhero/zotero-fulltext) - Search and read your Zotero library with citekey lookup and fulltext access.
 
 ---
